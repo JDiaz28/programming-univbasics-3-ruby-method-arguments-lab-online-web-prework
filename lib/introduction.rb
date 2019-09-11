@@ -1,5 +1,5 @@
 def name (name = "Juan")
-  
+  puts "Hi, my name is #{name}."
 
 
 

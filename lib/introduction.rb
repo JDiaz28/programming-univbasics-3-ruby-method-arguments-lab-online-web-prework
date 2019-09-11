@@ -1,12 +1,12 @@
-def introduction(name = "Juan")
+def introduction(name = "Edwin")
   puts "Hi, my name is #{name}."
 end
 
-def introduction_with_language(name = "Juan", language = "C++")
+def introduction_with_language(name = "Edwin", language = "Python")
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-def introduction_with_language_optional(name = "Juan", language = "Ruby")
+def introduction_with_language_optional(name = "Edwin", language = "Ruby")
   puts "Hi, my name is #{name} and I am learing to program in #{language}."
 end
 
